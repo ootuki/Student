@@ -1,0 +1,4 @@
+# file to write the calculation result
+result.txt
+# executable files compiled by gcc
+student.exe
